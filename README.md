@@ -34,5 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish-solera&show_icons=true&locale=en" alt="satish-solera" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish-solera&" alt="satish-solera" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish-solera&" alt="satish-solera" /></p> -->
 
