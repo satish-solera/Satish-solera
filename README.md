@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Sol-auth](https://www.npmjs.com/package/sol-auth) [Magma](https://magma-project-hazel.vercel.app)
 
-- 🌱 I’m currently learning **DeOps**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-web-indol-three.vercel.app/](https://portfolio-web-indol-three.vercel.app/)
 
 - 💬 Ask me about **React, Typescript,Express**
