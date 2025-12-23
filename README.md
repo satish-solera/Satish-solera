@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, Typescript,Express**
 
+- Shedule meeting with me **https://cal.com/satish-solera-vcuclh/15min**
+
 - 📫 How to reach me **satishsolera54@gmail.com**
 
 
