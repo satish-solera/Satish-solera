@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 
-- 🔭 I’m currently working on [Sol-auth](https://www.npmjs.com/package/sol-auth) [Magma](https://magma-project-hazel.vercel.app)
+- 🔭 I’m currently working on   [SolUI](https://solui-cyan.vercel.app) [Sol-auth](https://www.npmjs.com/package/sol-auth) [Magma](https://magma-project-hazel.vercel.app)
 
 - 💬 Ask me about **React, Typescript,Express**
 
