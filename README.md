@@ -21,6 +21,6 @@
 <h2 align="center"> Paper Published </h2>
 <div align="center">
 
-https://www.doi.org/10.56726/IRJMETS50285
-https://share.google/WPM6Hjkeo2wfktcEN
+<span> Networking devices</span> - [IRJMETS](https://www.doi.org/10.56726/IRJMETS50285) <br/>
+<span> LMS </span> - [IRJMETS](https://www.irjmets.com/uploadedfiles/paper//issue_2_february_2025/67955/final/fin_irjmets1740852915.pdf)
 </div>
