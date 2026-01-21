@@ -16,3 +16,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satish-solera&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
 </div>
+
+
+<h2 align="center"> Paper Published </h2>
+<div align="center">
+
+https://www.doi.org/10.56726/IRJMETS50285
+</div>
